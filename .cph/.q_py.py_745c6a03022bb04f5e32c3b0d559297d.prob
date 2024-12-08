@@ -1,1 +1,0 @@
-{"name":"Local: q_py","url":"/home/sohan/cpp_prac/q_py.py","tests":[{"id":1731854294152,"input":"5\n1\n1\n2\n2 2\n2\n1 2\n4\n1 2 3 1\n6\n1 2 3 1 2 3\n","output":"0\n1\n0\n1\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/q_py.py","group":"local","local":true}

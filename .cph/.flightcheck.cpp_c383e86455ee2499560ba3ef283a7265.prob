@@ -1,1 +1,0 @@
-{"name":"Local: flightcheck","url":"/home/sohan/cpp_prac/flightcheck.cpp","tests":[{"id":1714214596853,"input":"4 5\n1 2\n2 3\n3 1\n1 4\n3 4","output":"NO\n4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/flightcheck.cpp","group":"local","local":true}

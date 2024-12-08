@@ -1,1 +1,0 @@
-{"name":"Local: maxsum","url":"/home/sohan/cpp_prac/maxsum.cpp","tests":[{"id":1712722955675,"input":"8 1 2\n-1 3 -2 5 3 -5 2 2","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/maxsum.cpp","group":"local","local":true}

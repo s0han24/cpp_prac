@@ -1,1 +1,0 @@
-{"name":"Local: courseschedule","url":"/home/sohan/cpp_prac/courseschedule.cpp","tests":[{"id":1714059636451,"input":"5 3\n1 2\n3 1\n4 5","output":"3 4 1 5 2"},{"id":1714059951420,"input":"5 3\n1 2\n2 1\n4 5","output":"IMPOSSIBLE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/courseschedule.cpp","group":"local","local":true}

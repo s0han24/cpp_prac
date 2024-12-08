@@ -1,1 +1,0 @@
-{"name":"Local: flightroutes","url":"/home/sohan/cpp_prac/flightroutes.cpp","tests":[{"id":1713849725016,"input":"4 6 3\n1 2 1\n1 3 3\n2 3 2\n2 4 6\n3 2 8\n3 4 1","output":"4 4 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/flightroutes.cpp","group":"local","local":true}

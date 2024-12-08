@@ -1,1 +1,0 @@
-{"name":"Local: kruskal","url":"/home/sohan/cpp_prac/kruskal.cpp","tests":[{"id":1714111287585,"input":"5 6\n1 2 3\n2 3 5\n2 4 2\n3 4 8\n5 1 7\n5 4 4","output":"14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sohan/cpp_prac/kruskal.cpp","group":"local","local":true}
